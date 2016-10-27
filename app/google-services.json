@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "682168264602",
+    "firebase_url": "https://androidlogin-11605.firebaseio.com",
+    "project_id": "androidlogin-11605",
+    "storage_bucket": "androidlogin-11605.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682168264602:android:81b5fecc25ade1fa",
+        "android_client_info": {
+          "package_name": "hyh.androidlogin.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682168264602-03d076jr49os467dthj4vav26q455k79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dShTBIdcrIBWtG-nlTTsbwAfkxLLjRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
